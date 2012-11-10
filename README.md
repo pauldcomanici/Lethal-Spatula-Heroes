@@ -2,7 +2,7 @@
 
 This is a starter pack for 'platform' games.
 
-To run this project, open index.html in a web browser. You can play it [here](http://mindcandy.github.com/crafty-starter-game-platform/).
+To run this project, open index.html in a web browser.
 
 Alternatively you can execute the run-server.sh script and navigate to [http://localhost:8000](http://localhost:8000)  (Requires Python and bash)
 
