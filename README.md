@@ -2,7 +2,7 @@
 
 This is a starter pack for 'platform' games.
 
-To run this project, open index.html in a web browser.
+To run this project, open index.html in a web browser. Or go to [http://darkyndy.github.com/Lethal-Spatula-Heroes](http://darkyndy.github.com/Lethal-Spatula-Heroes)
 
 Alternatively you can execute the run-server.sh script and navigate to [http://localhost:8000](http://localhost:8000)  (Requires Python and bash)
 
